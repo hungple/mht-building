@@ -12,4 +12,5 @@
 ## Open a new issue
 - Click on Issues tab.
 - Click on **New** issue button.
-- Copy the text of this example issue https://github.com/hungple/mht-building/issues/1 and paste into the new issue. 
+- Fill in the information. 
+- Click on **Submit new issue** button.
