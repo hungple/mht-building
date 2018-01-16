@@ -1,7 +1,7 @@
 # Welcome to MHT Building and Grounds Committee
 
 ## Viewing list of existing issues
-- Click on Issues tab as show below:
+- Click on **Issues** tab as show below:
 
 <img src="img/issuesTab.png"/>
 
@@ -14,3 +14,9 @@
 - Click on **New** issue button.
 - Fill in the information. 
 - Click on **Submit new issue** button.
+
+## Add image to an issue
+- Open an issue in editing mode.
+- Drag and drop your image into the place when you want to displace the image.
+- Click on **Submit new issue** button.
+<img src="img/dragging_images.gif"/>
